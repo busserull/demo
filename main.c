@@ -5,7 +5,7 @@ int main(int argc, char ** argv){
         return 1;
     }
 
-    printf("hello %s\n", argv[1]);
+    printf("hei %s\n", argv[1]);
 
     return 0;
 }
